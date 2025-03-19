@@ -1,4 +1,4 @@
-# Mova - Gesture-Controlled Media Player
+# Mova - A Smart Media Control System
 
 A Python application that uses computer vision to control media playback through hand gestures. Currently supports YouTube and Spotify on macOS.
 
